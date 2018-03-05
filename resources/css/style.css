@@ -29,3 +29,8 @@ h3 {
   color: Gray;
   font-weight: normal;
 }
+
+.copyright {
+  color: Gray;
+  text-align: right;
+}
